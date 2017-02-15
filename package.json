@@ -1,0 +1,10 @@
+{
+  "name": "opensubtitle-test",
+  "license": "MIT",
+  "dependencies": {
+    "opensubtitles-api": "^3.4.1"
+  },
+  "scripts": { 
+ 	"start": "node search.js" 
+  }
+}
